@@ -1,0 +1,54 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   NVIDIA
+    VRAM:     2988 MB
+    Driver:   25.21.14.1634
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Michael Thomas Portfolio\Unity 3D Teddy shooter\TeddyBear\Submission1_GamesEngineProgramming\FinalGameExe\CuteTeddyBears_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Michael Thomas Portfolio\Unity 3D Teddy shooter\TeddyBear\Submission1_GamesEngineProgramming\FinalGameExe\CuteTeddyBears_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Michael Thomas Portfolio\Unity 3D Teddy shooter\TeddyBear\Submission1_GamesEngineProgramming\FinalGameExe\CuteTeddyBears_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Michael Thomas Portfolio\Unity 3D Teddy shooter\TeddyBear\Submission1_GamesEngineProgramming\FinalGameExe\CuteTeddyBears_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Michael Thomas Portfolio\Unity 3D Teddy shooter\TeddyBear\Submission1_GamesEngineProgramming\FinalGameExe\CuteTeddyBears_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Michael Thomas Portfolio\Unity 3D Teddy shooter\TeddyBear\Submission1_GamesEngineProgramming\FinalGameExe\CuteTeddyBears_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Michael Thomas Portfolio\Unity 3D Teddy shooter\TeddyBear\Submission1_GamesEngineProgramming\FinalGameExe\CuteTeddyBears_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Michael Thomas Portfolio\Unity 3D Teddy shooter\TeddyBear\Submission1_GamesEngineProgramming\FinalGameExe\CuteTeddyBears_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Michael Thomas Portfolio\Unity 3D Teddy shooter\TeddyBear\Submission1_GamesEngineProgramming\FinalGameExe\CuteTeddyBears_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Michael Thomas Portfolio\Unity 3D Teddy shooter\TeddyBear\Submission1_GamesEngineProgramming\FinalGameExe\CuteTeddyBears_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.662 seconds
+Platform assembly: D:\Michael Thomas Portfolio\Unity 3D Teddy shooter\TeddyBear\Submission1_GamesEngineProgramming\FinalGameExe\CuteTeddyBears_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Michael Thomas Portfolio\Unity 3D Teddy shooter\TeddyBear\Submission1_GamesEngineProgramming\FinalGameExe\CuteTeddyBears_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.290722 ms
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: e64 -> priority: 1 
+  Thread -> id: 3928 -> priority: 1 
+  Thread -> id: 3c14 -> priority: 1 
+  Thread -> id: 3f24 -> priority: 1 
+  Thread -> id: 3ef4 -> priority: 1 
+  Thread -> id: 3a54 -> priority: 1 
+  Thread -> id: 6ec -> priority: 1 
+  Thread -> id: 2d98 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.101339 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 777.
+Total: 0.675723 ms (FindLiveObjects: 0.049909 ms CreateObjectMapping: 0.023291 ms MarkObjects: 0.418133 ms  DeleteObjects: 0.183834 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.266877 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 20946.
+Total: 5.540265 ms (FindLiveObjects: 0.895880 ms CreateObjectMapping: 0.150838 ms MarkObjects: 1.741020 ms  DeleteObjects: 2.751139 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.549129 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 20973.
+Total: 5.583243 ms (FindLiveObjects: 1.088865 ms CreateObjectMapping: 0.149452 ms MarkObjects: 1.730206 ms  DeleteObjects: 2.613609 ms)
+
